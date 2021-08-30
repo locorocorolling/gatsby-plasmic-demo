@@ -17,6 +17,7 @@
   "dependencies": {
     "@plasmicapp/loader-gatsby": "^1.0.9",
     "gatsby": "^3.11.1",
+    "gatsby-plugin-scroll-reveal": "0.0.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }

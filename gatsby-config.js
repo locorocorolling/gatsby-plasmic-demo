@@ -19,5 +19,6 @@ module.exports = {
         preview: true
       },
     },
+    'gatsby-plugin-scroll-reveal',
   ],
 };
